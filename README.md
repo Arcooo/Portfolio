@@ -31,5 +31,5 @@ I also use VS Code mainly to do live peer programming using the *Live Share* ext
 
 ### Other Links
 - [LinkedIn Profile](https://www.linkedin.com/in/alecjames11)
-- [Resume PDF Download]()
+- [Resume PDF Download](Resume)
 
