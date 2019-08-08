@@ -3,7 +3,8 @@
 
 - [ ] [2. NFL 2019 SQL Demonstration Project with Web Scraping](https://github.com/Arcooo/Portfolio/tree/master/NFL%202019%20SQL%20Demonstration%20Project%20with%20Web%20Scraping)
 
-- [ ] [3. Coding Interview Questions](https://github.com/Arcooo/Portfolio/Coding%20Interview%20Questions)
+- [ ] [3. Coding Interview Questions](https://github.com/Arcooo/Portfolio/tree/master/Coding%20Interview%20Questions)
+
   - :arrow_left:[Back to Portfolio](https://github.com/Arcooo/Portfolio)
 
 
