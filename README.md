@@ -1,6 +1,14 @@
 :smiley: :computer: :orange_book: :bar_chart: :earth_americas:
 # ALEC JAMES'S DATA ANALYTICS PORTFOLIO 
- 
+
+### Projects in the Portfolio
+- [ ] [1. WayFair Data Science Competition](WayFair%20Data%20Science%20Competition)
+> 
+- [ ] [2. NFL 2019 SQL Demonstration Project with Web Scraping](NFL%202019%20SQL%20Demonstration%20Project%20with%20Web%20Scraping)
+>
+- [ ] [3. Coding Interview Questions](Coding%20Interview%20Questions)
+>
+
 ### Purpose
 
 My name is Alec James and I am a recent Clark University MBA graduate. I would like to get my foot in the door of data analytics professionally. The technical skills required of data analysts in the job market that I have seen are: 
@@ -10,16 +18,6 @@ My name is Alec James and I am a recent Clark University MBA graduate. I would l
 - Statistics
 
 I hope to demonstrate my technical skills through my projects. I also wish to demonstrate my ability to communicate clearly through my notes, comments, and general organization.
-
-### Projects in the Portfolio
-- [ ] [WayFair Data Science Competition]()
-> 
-- [ ] [NFL 2019 SQL Demonstration Project with Web Scraping]()
->
-- [ ] [Coding Interview Questions]()
->
-- [ ] [Useful Code Bits and Scripts]()
->
 
 ### Why I want to be a Data Analyst
 Data analytics is one of the most up and coming professions out there. And I can see why. Data analytics is important for the future in all industries. Some of the most challenging problems and opportunities are going to be solved with data. We have seen it for years in the financial industry in algorithmic computer traders which can be seen automating in million of retirement accounts. It's being utilized in genomics to figure out the complexities of our DNA. It's being used by retailers to target likely customers thus lowering marketing costs and becoming more efficient. The future is through data analytics and I want to be part of it. Plus I enjoy programming and finding meaningful insights. I believe that with my technical background, eye for strategy, and business acumen, I will be a great Data Analyst.
