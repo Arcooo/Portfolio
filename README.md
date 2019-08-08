@@ -12,7 +12,7 @@ My name is Alec James and I am a recent Clark University MBA graduate. I would l
 I hope to demonstrate my technical skills through my projects. I also wish to demonstrate my ability to communicate clearly through my notes, comments, and general organization.
 
 ### Projects in the Portfolio
-- [ ] [WayFair Data Science Competition](WayFair%20Data%20Science%20Competition)
+- 1[ ] [WayFair Data Science Competition](WayFair%20Data%20Science%20Competition)
 > 
 - [ ] [NFL 2019 SQL Demonstration Project with Web Scraping](NFL%202019%20SQL%20Demonstration%20Project%20with%20Web%20Scraping)
 >
