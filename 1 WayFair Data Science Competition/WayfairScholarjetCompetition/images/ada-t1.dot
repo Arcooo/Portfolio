@@ -1,0 +1,8 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="X[88] <= 5.5\ngini = 0.189\nsamples = 22500\nvalue = [0.895, 0.105]"] ;
+1 [label="gini = 0.348\nsamples = 6889\nvalue = [0.238, 0.069]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gini = 0.1\nsamples = 15611\nvalue = [0.657, 0.037]"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}

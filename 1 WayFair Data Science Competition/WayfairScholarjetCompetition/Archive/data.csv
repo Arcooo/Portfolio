@@ -1,0 +1,39 @@
+﻿,cuid,convert_30,revenue_30,roll_up,currentstatus,companytypegroup,team,customersource,accrole,num_employees,num_purchases_year,cost_purchases_year,enrollmentmethod
+1,20,0,0,Onboarding,Active,Business,US,External Application,None,50plus,1to2,lessthan1,directEIN
+2,57,1,100,Onboarding,Active,Trade,US,Internal Application,None,2to5,25plus,25to100,directEIN
+3,163,0,0,Onboarding,Active,Business,US,Internal Application,None,1,3to5,1to5,directEIN
+4,167,1,100,Unmanaged,Enrolled,Business,US,Internal Customer Scrape,None,50plus,3to5,lessthan1,directEIN
+5,168,0,0,Unmanaged,Enrolled,Business,US,Gateway,None,6to10,11to25,5to25,directEIN
+9,215,1,100,Retention,Enrolled,Business,US,Internal Application,None,None,None,None,directEIN
+12,285,0,0,Retention,Enrolled,Business,US,Internal Customer Scrape,None,None,None,None,email
+14,363,1,,Onboarding,Active,Business,US,External Application,None,1,25plus,5to25,directEIN
+15,401,0,0,Onboarding,Active,Business,US,Internal Application,None,None,None,None,other
+17,421,0,0,Onboarding,Enrolled,Business,CA,Internal Application,Primary,None,None,None,email
+22,607,0,0,Onboarding,Enrolled,Business,US,Social - Paid,Primary,None,None,None,phone
+24,643,0,0,Onboarding,Enrolled,Business,US,Social - Paid,None,None,None,None,email
+27,681,1,100,Onboarding,Enrolled,Business,US,Search - Paid,None,2to5,25plus,25to100,directEIN
+28,688,0,0,Onboarding,Active,Business,US,Search - Paid,Primary,50plus,None,None,other
+30,699,1,100,Unmanaged,Enrolled,Business,US,Internal Customer Scrape,None,None,None,None,email
+32,769,0,0,Unmanaged,Enrolled,Business,US,Internal Application,None,6to10,3to5,5to25,directEIN
+33,787,1,100,Retention,Enrolled,Business,US,Internal Application,None,1,3to5,None,directEIN
+35,848,0,0,Retention,Enrolled,Business,US,Internal Customer Scrape,Purchaser,None,None,None,phone
+37,932,1,,Onboarding,Enrolled,Business,US,Internal Application,Primary,None,None,None,phone
+1,20,0,0,Onboarding,Active,Business,US,External Application,None,50plus,1to2,lessthan1,directEIN
+2,57,1,300,Onboarding,Active,Business,US,Internal Application,None,2to5,25plus,25to100,directEIN
+3,163,0,0,Onboarding,Active,Business,US,Internal Application,None,1,3to5,1to5,directEIN
+4,167,1,201,Unmanaged,Enrolled,Business,US,Internal Customer Scrape,None,50plus,3to5,lessthan1,directEIN
+5,168,0,0,Unmanaged,Enrolled,Business,US,Gateway,None,6to10,11to25,5to25,directEIN
+9,215,1,90,Retention,Enrolled,Business,US,Internal Application,None,None,None,None,directEIN
+12,285,0,0,Retention,Enrolled,Business,US,Internal Customer Scrape,None,None,None,None,email
+14,363,1,,Onboarding,Active,Business,US,External Application,None,1,25plus,5to25,directEIN
+15,401,0,0,Onboarding,Active,Business,US,Internal Application,None,None,None,None,other
+17,421,0,0,Onboarding,Enrolled,Business,CA,Internal Application,Primary,None,None,None,email
+22,607,0,0,Onboarding,Enrolled,Business,US,Social - Paid,Primary,None,None,None,phone
+24,643,0,0,Onboarding,Enrolled,Business,US,Social - Paid,None,None,None,None,email
+27,681,1,45,Onboarding,Enrolled,Business,US,Search - Paid,None,2to5,25plus,25to100,directEIN
+28,688,0,0,Onboarding,Active,Business,US,Search - Paid,Primary,50plus,None,None,other
+30,699,1,99,Unmanaged,Enrolled,Business,US,Internal Customer Scrape,None,None,None,None,email
+32,769,0,0,Unmanaged,Enrolled,Business,US,Internal Application,None,6to10,3to5,5to25,directEIN
+33,787,1,220,Retention,Enrolled,Business,US,Internal Application,None,1,3to5,None,directEIN
+35,848,0,0,Retention,Enrolled,Business,US,Internal Customer Scrape,Purchaser,None,None,None,phone
+37,932,1,,Onboarding,Enrolled,Business,US,Internal Application,Primary,None,None,None,phone
