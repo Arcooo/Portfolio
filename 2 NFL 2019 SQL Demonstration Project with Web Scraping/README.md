@@ -9,4 +9,4 @@
   - :arrow_left:[Back to Portfolio](https://github.com/Arcooo/Portfolio)
 
 
-# 1. 2. NFL 2019 SQL Demonstration Project with Web Scraping
+# 2. NFL 2019 SQL Demonstration Project with Web Scraping
