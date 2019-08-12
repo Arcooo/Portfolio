@@ -11,3 +11,4 @@
 
 # 3. Coding Interview Questions
 
+This project folder is dedicated to solving interview practice problems. 
